@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T13:00:03+08:00</updated><entry><title>2024 w4 課程整理</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T10:00:00+08:00</published><updated>2024-06-15T13:00:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;Replit靜態&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Replit靜態&lt;/p&gt;
+
+
+&lt;h1&gt;本週整理心得&lt;/h1&gt;
+&lt;p&gt;我最近打造了自己的個人網站，想分享一下我的心得。首先，我用了GitHub倉儲管理網站內容，這樣就能隨時追蹤內容的改版歷程，也方便與團隊合作。然後，我利用GitHub Pages建立了網站，這樣我就無需擔心伺服器問題，網站能自動更新。為了更輕鬆編輯內容，我開發了一個網頁編輯系統，讓我能快速編輯和管理網站內容。最後，我將網站的啟動網址設置為外部IP，這樣無論身在何處，都能輕鬆編輯我的網站。總的來說，這次打造網站的過程讓我更了解了網站開發，也提高了效率，希望能繼續完善我的網站，分享更多有價值的內容。&lt;/p&gt;
+&lt;h1&gt;Replit靜態網站檢視&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://zhe41223118.github.io/wcm2024/downloads/main2.txt"&gt;main2.txt&lt;/a&gt; &lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
