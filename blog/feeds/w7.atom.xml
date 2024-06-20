@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T02:24:34+08:00</updated><entry><title>2024 w7 課程整理</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:24:34+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;心得整理&lt;/p&gt;
+
+
+&lt;h1&gt;心得整理&lt;/h1&gt;
+&lt;p&gt;影片嵌入網站方法。&lt;/p&gt;
+&lt;p&gt;以超連結配合個人網站內的Source code 將影片複製後的超連結貼上，連結內有預設影片邊界 來源拉取等，除非想有特別需要調整，一般基本只要將其貼上即可。&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
