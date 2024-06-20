@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T02:02:26+08:00</updated><entry><title>2024 w5 課程整理</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T10:00:00+08:00</published><updated>2024-06-20T02:02:26+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;Replit分組平台倉儲設定&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Replit分組平台倉儲設定&lt;/p&gt;
+
+&lt;h1&gt;本周心得記錄&lt;/h1&gt;
+&lt;p&gt;事先預習上課可能會講解內容，了解iframe是什麼和相關應用。&lt;/p&gt;
+&lt;p&gt;內容會以iframe來插入前幾周的教學影片，並摘要各影片內容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.Replit分組平台倉儲設定。&lt;/p&gt;
+&lt;p&gt;2.使用可攜檔裡的Putty-solvespace.exe(STL)，零件檢視方法。&lt;/p&gt;
+&lt;p&gt;3.使用近端可攜程式，維護更新自己及分組倉儲。&lt;/p&gt;
+&lt;p&gt;參考實作教學影片請到youtube&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tsg.com.tw/blog-detail4-324-0-iframe.htm"&gt;iframe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/personal/41223118_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F41223118%5Fnfu%5Fedu%5Ftw%2FDocuments%2Fportable%5F2024%2E7z&amp;amp;parent=%2Fpersonal%2F41223118%5Fnfu%5Fedu%5Ftw%2FDocuments&amp;amp;ga=1"&gt;可攜檔&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.adobe.com/hk_zh/creativecloud/file-types/image/vector/stl-file.html#%E4%BB%80%E9%BA%BC%E6%98%AF-stl-%E6%AA%94%E6%A1%88"&gt;STL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/@-kmolab9376"&gt;youtube&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
