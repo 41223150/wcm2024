@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T02:43:46+08:00</updated><entry><title>2024 w11 課程整理</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:43:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;心得整理&lt;/p&gt;
+
+&lt;h1&gt;心得整理&lt;/h1&gt;
+&lt;p&gt;所有學員需將分組的小組組別名稱(g4)新增至評分網站中的，為置於專案目錄下，之後將每位學員的關於本課程內容心得，新增至各組別下的目錄。&lt;/p&gt;
+&lt;p&gt;這個過程中的困難點就是當多人在同時上傳(push)時，我們要如何應對。&lt;/p&gt;
+&lt;p&gt;慢慢等人上傳後自己再上傳顯然是不合效率，所以需以課程所學來應對衝突問題。&lt;/p&gt;
+&lt;p&gt;這裡就是需要利用分支處理衝突問題，雖然在上傳時如果當下自己的版本不是最新的，一樣需要將最新的版本git pull下來，然後進入動態網站進行衝突/合併，解決完後才能夠git push上去。&lt;/p&gt;
+&lt;p&gt;分支：就是在當下的版本的另一條屬於自己的版本，比如說是原本一條的河流，突然變成兩條(甚至以上)，他們在本質上是屬於同一支源流，但每個分支出來會呈現的形式都是不同，最終都會匯聚至大海，而大海就是我們衝突裡的主流，每個人在自己的分支裡做自己想做的，最後要統整合併為一個主流，將每次上傳時都可能遇到的處理衝突問題次數降低。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.開始複習加深前幾周所教學內容&lt;/p&gt;
+&lt;p&gt;2.評分網站在git pull處理要點&lt;/p&gt;
+&lt;p&gt;如果自己不是最新版本，在pull後內容會顯示新增 修改的內容&lt;/p&gt;
+&lt;p&gt;WSGIserver(Web Server Gateway Interface)：具有高效、易於使用和可擴展性等特點，是 Python 中用於定義 Web 應用程序與 Web 服務器之間通信的標準界面。(參考)&lt;/p&gt;
+&lt;p&gt;3.導師心得評語，修改評分網站中個人心得&lt;/p&gt;
+&lt;p&gt;4.提到學校網站利用php(PHP: Hypertext Preprocessor)所編寫，提到課程內容進階的關於學校網站排課系統&lt;/p&gt;
+&lt;p&gt;5.安裝Claude，AI程式聊天&lt;/p&gt;
+&lt;p&gt;這個頁面 demo 如何在同一頁面下納入多個線上 Ace 編輯器與執行按鈕 (practice_html.txt 動態頁面超文件).&lt;/p&gt;
+&lt;p&gt;practice_html.txt 動態頁面超文件應該可以在啟動 Brython 時, 設定將 .py 檔案放入 downloads/py 目錄中引用.&lt;/p&gt;
+&lt;p&gt;亦即將所有對應的 html 也使用 Brython 產生, 然後寫為 class 後, 在範例導入時透過 instance 引用.&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
