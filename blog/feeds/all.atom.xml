@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T02:43:46+08:00</updated><entry><title>2024 w10 課程整理</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:37:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;心得整理&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T02:45:50+08:00</updated><entry><title>2024 w10 課程整理</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:37:36+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;心得整理&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;心得整理&lt;/p&gt;
 
 &lt;h1&gt;心得整理&lt;/h1&gt;
@@ -25,7 +25,13 @@
 &lt;p&gt;5.安裝Claude，AI程式聊天&lt;/p&gt;
 &lt;p&gt;這個頁面 demo 如何在同一頁面下納入多個線上 Ace 編輯器與執行按鈕 (practice_html.txt 動態頁面超文件).&lt;/p&gt;
 &lt;p&gt;practice_html.txt 動態頁面超文件應該可以在啟動 Brython 時, 設定將 .py 檔案放入 downloads/py 目錄中引用.&lt;/p&gt;
-&lt;p&gt;亦即將所有對應的 html 也使用 Brython 產生, 然後寫為 class 後, 在範例導入時透過 instance 引用.&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 w6 課程整理</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:26:22+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;與 ChatGPT 的對話&lt;/p&gt;
+&lt;p&gt;亦即將所有對應的 html 也使用 Brython 產生, 然後寫為 class 後, 在範例導入時透過 instance 引用.&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 w13 課程整理</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:45:50+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;心得整理&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;心得整理&lt;/p&gt;
+
+&lt;h1&gt;心得整理&lt;/h1&gt;
+&lt;p&gt;1.從教務處主機直接擷取資料&lt;/p&gt;
+&lt;p&gt;2.將擷取下來的資料以近端形式持續保留在頁面&lt;/p&gt;
+&lt;p&gt;3.猜數字遊戲&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 w6 課程整理</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T10:00:00+08:00</published><updated>2024-06-20T02:26:22+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;與 ChatGPT 的對話&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;與 ChatGPT 的對話&lt;/p&gt;
 
 &lt;h1&gt;與 ChatGPT 的對話, 了解有關 git 在不同專業領域的應用方法&lt;/h1&gt;
